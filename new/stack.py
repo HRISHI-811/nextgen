@@ -17,8 +17,6 @@ def peek():
         print("Stack is Empty")
         return None
     return stack[top]
-
-
 push(10)
 push(20)
 push(30)
